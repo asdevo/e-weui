@@ -1,2 +1,2 @@
 # e-weui
-extend the weui
+extend the weui and weui.js
